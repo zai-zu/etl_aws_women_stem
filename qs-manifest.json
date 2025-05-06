@@ -1,0 +1,18 @@
+
+{
+  "fileLocations": [
+    {
+      "URIPrefixes": [
+        "s3://target-woman-stem-latam/estudiantes_mice/"
+      ]
+    },
+    {
+      "URIPrefixes": [
+        "s3://target-woman-stem-latam/personal_mice/"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "CSV" 
+  }
+}
