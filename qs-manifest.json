@@ -13,6 +13,6 @@
     }
   ],
   "globalUploadSettings": {
-    "format": "PARQUET" 
+    "format": "CSV" 
   }
 }
