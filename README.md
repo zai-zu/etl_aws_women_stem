@@ -27,7 +27,7 @@ Este proyecto de ingeniería de datos permite automatizar procesos de extracció
 ```
 
 ## 🧱 Arquitectura
-![Arquitectura](arquitectura.jpg)
+![Arquitectura](arquitectura.png)
 
 
 
