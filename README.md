@@ -1,7 +1,8 @@
 
 # ETL AWS Women STEM 🚀
 
-Este repositorio forma parte de la presentación de la charla técnica *"Transformando datos y realidades: tu primera experiencia con AWS Glue"*, impartida el 8 de mayo en **Amazon HQ, CDMX**.
+Este repositorio forma parte de la presentación de la charla técnica *"Transformando datos y realidades: tu primera experiencia con AWS Glue"*, impartida el 8 de mayo en **Amazon HQ, CDMX** y en el **Community Day México** presentado en  Expo Reforma el 14 de junio .
+
 Con el objetivo de inspirar a mujeres y personas que están comenzando en el mundo del análisis de datos, se expone el proceso de construcción de un pipeline ETL utilizando AWS Glue, cuyos resultados se visualizan posteriormente en Amazon QuickSight.
 El desarrollo se centra en el procesamiento de una base de datos con indicadores clave para comprender la brecha de género y la situación de las mujeres en el ámbito STEM, desde una perspectiva social y humanística.
 
@@ -92,4 +93,4 @@ Si tienes preguntas o sugerencias, ¡no dudes en abrir un issue o enviar un pull
 
 ---
 
-¡Gracias por utilizar este repositorio! 🌟
+¡Gracias por utilizar este repositorio y hacerme una retroalimentación! 🌟
